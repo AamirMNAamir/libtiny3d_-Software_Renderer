@@ -1,0 +1,4 @@
+build/ 
+tests/visual_tests/Outputs/ 
+*.o 
+*.exe 
